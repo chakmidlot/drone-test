@@ -7,7 +7,7 @@
       "name": "test",
       "image": "python:3.7-alpine",
       "commands": [
-        "python -c \"exit(2)\""
+        "python -c \"print(100500)\""
       ]
     }
   ]
